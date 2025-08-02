@@ -1,0 +1,5 @@
+# Ignore the Python virtual environment
+/linkshorty-env/
+
+# Ignore Python cache files
+__pycache__/
