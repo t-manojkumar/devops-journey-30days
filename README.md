@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # LinkShorty - A URL Shortener Service
 
 This is a URL shortener service built as part of my 30-day DevOps journey.
